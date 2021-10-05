@@ -1,2 +1,2 @@
 # Circuitos-Eletronicos
-Projeto desenvolvido de circuitos eletrônicos
+Projeto de circuitos eletrônicos
