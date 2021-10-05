@@ -1,2 +1,2 @@
 # Circuitos-Eletronicos
-Projeto de circuitos eletrônicos
+Projeto envolvendo circuitos eletrônicos e programação em C++.
